@@ -1,0 +1,12 @@
+Multiply Two Numbers
+====================
+
+Problem Description:
+You are provided with a partially written Java program that initializes one integer variable, x. Your task is to complete the program by:
+1. Declaring and initializing another integer variable, y, with a value of 2.
+2. Writing the necessary code to multiply x and y and print the result.
+
+Ensure that the output correctly displays the product of the two numbers.
+
+Input Format:
+No input.

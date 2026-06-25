@@ -1,0 +1,12 @@
+Add Two Numbers
+===============
+
+Problem Description:
+You are provided with a partially written Java program that initializes two integer variables, a and b. Your task is to complete the program by writing the necessary code to add these two integers and print the result.
+Ensure that you do not modify the initial values of a and b or alter any other part of the code.
+
+Input Format:
+No input.
+
+Output Format:
+The output should print the sum of a and b in a single line.

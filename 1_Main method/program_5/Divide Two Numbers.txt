@@ -1,0 +1,12 @@
+Divide Two Numbers
+==================
+
+Problem Description:
+You are provided with a partially written Java program. Your task is to complete the program by:
+1. Declaring and initializing two integer variables, num1 and num2, with hard-coded values of 20 and 4, respectively.
+2. Writing the necessary code to divide num1 by num2 and print the result.
+
+Ensure that the output correctly displays the result of the division.
+
+Input Format:
+No input.

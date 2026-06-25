@@ -1,0 +1,12 @@
+Subtract Two Numbers
+====================
+
+Problem Description:
+You are provided with a partially written Java program that initializes one integer variable, a. Your task is to complete the program by:
+1. Declaring and initializing another integer variable, b, with a value of 10.
+2. Writing the necessary code to subtract b from a and print the result.
+
+Ensure that the output correctly displays the result of the subtraction, the predefined value of a remains unchanged, and the code structure is not modified.
+
+Input Format:
+No input.
