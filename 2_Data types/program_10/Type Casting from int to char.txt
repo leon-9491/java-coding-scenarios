@@ -1,0 +1,13 @@
+Type Casting from int to char
+=============================
+
+Problem Description:
+Write a program that takes an integer value representing an ASCII code, casts it to a character, and prints both the original integer and the corresponding character.
+
+Input Format:
+No input.
+
+Output Format:
+The output should display:
+The original integer.
+The corresponding character (as per the ASCII value).

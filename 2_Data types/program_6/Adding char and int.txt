@@ -1,0 +1,11 @@
+Adding char and int
+===================
+
+Problem Description:
+Write a program that takes a char value and an int value, adds the char to the int, and prints the result. Note that adding a char and an int results in an integer value representing the ASCII value of the char plus the integer.
+
+Input Format:
+No input.
+
+Output Format:
+The output should be in the format: Result: X, where X is the result of adding the char and int values.

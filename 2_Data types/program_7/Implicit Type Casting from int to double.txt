@@ -1,0 +1,13 @@
+Implicit Type Casting from int to double
+========================================
+
+Problem Description:
+Write a program that takes an integer value, performs implicit type casting to a double, and prints both the original integer and the casted double values.
+
+Input Format:
+No input.
+
+Output Format:
+The output should display:
+The original integer value.
+The casted double value.

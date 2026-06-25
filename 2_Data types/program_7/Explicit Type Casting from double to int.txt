@@ -1,0 +1,13 @@
+Explicit Type Casting from double to int
+========================================
+
+Problem Description:
+Write a program that takes a double value, explicitly casts it to an integer, and prints both the original double and the casted integer values.
+
+Input Format:
+No input.
+
+Output Format:
+The output should display:
+The original double value.
+The casted integer value.

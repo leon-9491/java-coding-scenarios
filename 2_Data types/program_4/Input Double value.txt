@@ -1,0 +1,11 @@
+Input Double Value
+==================
+
+Problem Description:
+Write a program that reads a double value from the user and prints it to the console. The program should use the Scanner class to capture the double input and then display the value exactly as entered. Ensure that your program correctly handles the input and output as specified.
+
+Input Format:
+A single double value input by the user.
+
+Output Format:
+The double value entered by the user, printed to the console.

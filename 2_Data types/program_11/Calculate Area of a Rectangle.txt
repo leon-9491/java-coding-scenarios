@@ -1,0 +1,12 @@
+Calculate Area of a Rectangle
+=============================
+
+Problem Description:
+Write a program that reads two integer values from the user representing the length and breadth of a rectangle. Complete the program to calculate the area of the rectangle and print the result.
+The formula for the area is: Area = length * breadth.
+
+Input Format:
+Two integer values input by the user (length followed by breadth).
+
+Output Format:
+The calculated area of the rectangle, printed to the console.

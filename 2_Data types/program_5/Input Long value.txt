@@ -1,0 +1,11 @@
+Input Long Value
+================
+
+Problem Description:
+Write a program that reads a long integer value from the user and prints it to the console. The program should use the Scanner class to capture the long integer input and then display the value exactly as entered. Ensure that your program correctly handles the input and output as specified.
+
+Input Format:
+A single long integer value input by the user.
+
+Output Format:
+The long integer value entered by the user, printed to the console.
